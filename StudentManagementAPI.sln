@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Version 21
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagementAPI", "StudentManagementAPI.csproj", "{6AE9183B-B87D-C488-EADB-046B910E9BD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Default|Any CPU = Default|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AE9183B-B87D-C488-EADB-046B910E9BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE9183B-B87D-C488-EADB-046B910E9BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE9183B-B87D-C488-EADB-046B910E9BD0}.Default|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE9183B-B87D-C488-EADB-046B910E9BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE9183B-B87D-C488-EADB-046B910E9BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0BE2BED-1FAF-4A2A-AC5E-F6754C417CEE}.Debug|Any CPU.ActiveCfg = Default
+		{B0BE2BED-1FAF-4A2A-AC5E-F6754C417CEE}.Default|Any CPU.ActiveCfg = Default
+		{B0BE2BED-1FAF-4A2A-AC5E-F6754C417CEE}.Release|Any CPU.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB77C068-CD4D-4EAB-AA1D-7251AF38C359}
+	EndGlobalSection
+EndGlobal
